@@ -21,4 +21,7 @@ body {
 
   .container {
     display: flex; 
+    width: 100%; 
+    background-color: #DE9C51;
+    color: #FFFFFF; 
   }
