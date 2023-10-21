@@ -25,3 +25,7 @@ body {
     background-color: #DE9C51;
     color: #FFFFFF; 
   }
+
+  .item {
+    margin: 10px; 
+  }
